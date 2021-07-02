@@ -7,13 +7,13 @@ import Skills from './components/Skills/Skills'
 import Contact from './components/Contact/Contact'
 import './App.css'
 import { ChakraProvider } from '@chakra-ui/react'
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 
 
 function App() {
   return (
     <ChakraProvider>
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <Header />
           <Switch>
@@ -25,7 +25,7 @@ function App() {
             <Route exact path='/contact' component={Contact} />
           </Switch>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </ChakraProvider >
   );
 }
