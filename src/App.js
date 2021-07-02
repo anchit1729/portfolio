@@ -13,7 +13,7 @@ import { HashRouter, Route, Switch } from 'react-router-dom';
 function App() {
   return (
     <ChakraProvider>
-      <HashRouter>
+      <HashRouter basename='/'>
         <div className="App">
           <Header />
           <Switch>
