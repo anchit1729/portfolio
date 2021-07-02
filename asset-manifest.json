@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/anchit1729.github.io/personal-website/static/css/main.94b1cb88.chunk.css",
+    "main.js": "/anchit1729.github.io/personal-website/static/js/main.579a18c4.chunk.js",
+    "main.js.map": "/anchit1729.github.io/personal-website/static/js/main.579a18c4.chunk.js.map",
+    "runtime-main.js": "/anchit1729.github.io/personal-website/static/js/runtime-main.04307579.js",
+    "runtime-main.js.map": "/anchit1729.github.io/personal-website/static/js/runtime-main.04307579.js.map",
+    "static/js/2.85d1e2de.chunk.js": "/anchit1729.github.io/personal-website/static/js/2.85d1e2de.chunk.js",
+    "static/js/2.85d1e2de.chunk.js.map": "/anchit1729.github.io/personal-website/static/js/2.85d1e2de.chunk.js.map",
+    "static/js/3.8fa9b27b.chunk.js": "/anchit1729.github.io/personal-website/static/js/3.8fa9b27b.chunk.js",
+    "static/js/3.8fa9b27b.chunk.js.map": "/anchit1729.github.io/personal-website/static/js/3.8fa9b27b.chunk.js.map",
+    "index.html": "/anchit1729.github.io/personal-website/index.html",
+    "static/css/main.94b1cb88.chunk.css.map": "/anchit1729.github.io/personal-website/static/css/main.94b1cb88.chunk.css.map",
+    "static/js/2.85d1e2de.chunk.js.LICENSE.txt": "/anchit1729.github.io/personal-website/static/js/2.85d1e2de.chunk.js.LICENSE.txt",
+    "static/media/photo_astrid.72bb7215.jpg": "/anchit1729.github.io/personal-website/static/media/photo_astrid.72bb7215.jpg",
+    "static/media/photo_bigtwo.be1d90d0.jpg": "/anchit1729.github.io/personal-website/static/media/photo_bigtwo.be1d90d0.jpg",
+    "static/media/photo_haptiverse.80090f9a.jpg": "/anchit1729.github.io/personal-website/static/media/photo_haptiverse.80090f9a.jpg",
+    "static/media/photo_web_copy.1e0d7943.jpg": "/anchit1729.github.io/personal-website/static/media/photo_web_copy.1e0d7943.jpg",
+    "static/media/resume.a7b49e5b.pdf": "/anchit1729.github.io/personal-website/static/media/resume.a7b49e5b.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04307579.js",
+    "static/js/2.85d1e2de.chunk.js",
+    "static/css/main.94b1cb88.chunk.css",
+    "static/js/main.579a18c4.chunk.js"
+  ]
+}
