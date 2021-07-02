@@ -1,17 +1,17 @@
 export const MenuItems = [
     {
         title: 'About Me',
-        url: '/',
+        url: '#/',
         category: 'nav-links'
     },
     {
         title: 'Projects',
-        url: '/projects',
+        url: '#/projects',
         category: 'nav-links'
     },
     {
         title: 'Experience',
-        url: '/experience',
+        url: '#/experience',
         category: 'nav-links'
     },
     /*{
@@ -26,7 +26,7 @@ export const MenuItems = [
     },*/
     {
         title: 'Contact',
-        url: '/contact',
+        url: '#/contact',
         category: 'nav-links'
     }
 ]
