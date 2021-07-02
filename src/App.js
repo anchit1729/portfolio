@@ -17,7 +17,7 @@ function App() {
         <div className="App">
           <Header />
           <Switch>
-            <Route exact path='/personal-website' component={About} />
+            <Route exact path='/personal-website/' component={About} />
             <Route exact path='/personal-website/projects' component={Projects} />
             <Route exact path='/personal-website/experience' component={Experience} />
             <Route exact path='/personal-website/academics' component={Academics} />
