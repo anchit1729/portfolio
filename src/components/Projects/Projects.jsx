@@ -28,8 +28,8 @@ export default function Projects(props) {
                     </Heading>
                     <br />
                     <Text marginLeft={55} textAlign='left' maxWidth={600} fontWeight='medium' size='xl' color='black'>
-                        The Haptiverse project is a website that I am working on as part of my Mitacs Globalink
-                        Research Internship at the University of Waterloo. It is built on the MERN stack. The eventual
+                        The Haptiverse project is a website that I am working on as part of my <b>Mitacs Globalink
+                            Research Internship</b> at the <b>University of Waterloo</b>. It is built on the MERN stack. The eventual
                         aim for this project is to provide an open online platform for academic researchers and
                         developers to share haptic data with each other to accelerate development of new haptic
                         technologies.

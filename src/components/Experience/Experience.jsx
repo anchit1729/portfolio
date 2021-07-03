@@ -32,7 +32,7 @@ export default function Experience(props) {
                     <Text marginLeft={55} textAlign='left' maxWidth={600} fontWeight='medium' size='xl' color='black'>
                         I am currently a research intern working in the Haptic Computing Lab (Human-Computer Interaction group)
                         at the University of Waterloo as part of the MITACS Globalink Research Internship. My work here includes
-                        working on a web-based platform to further improve and accelerate research and development in haptics,
+                        developing a web-based platform to further improve and accelerate research and development in haptics,
                         as well as applying Artificial Intelligence techniques in order to both study and develop new haptics.
                         <br />
                         <br />

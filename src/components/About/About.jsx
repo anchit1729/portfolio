@@ -1,5 +1,5 @@
 import React from 'react'
-import { Center, Text, Heading, Button, Icon, Link } from '@chakra-ui/react'
+import { Text, Heading, Button, Icon, Link } from '@chakra-ui/react'
 import { FaGithubSquare, FaFileDownload, FaLinkedinIn } from 'react-icons/fa'
 import backgroundImage from '../../images/photo_web_copy.jpg'
 import resume from '../../images/resume.pdf'
