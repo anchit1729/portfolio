@@ -1,18 +1,27 @@
 .About  {
     background-position: center;
-    height: 100vh;
+    height: 110vh;
     width: 100vw;
     background-size: cover;
 }
 
 .about-me-text  {
     position: absolute;
-    left: 10%;
-    top: 25%;
+    left: 10vw;
+    top: 25vh;
 }
 
 .icons  {
     display: flex;
     justify-content: center;
     flex-direction: row;
+}
+
+@media screen and (max-width: 500){
+    .About  {
+        background-position: right;
+        height: 140vh;
+        width: 100vw;
+        background-size: auto;
+    }
 }
