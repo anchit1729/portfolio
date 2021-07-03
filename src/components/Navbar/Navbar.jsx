@@ -20,7 +20,7 @@ export default function Navbar(props) {
 
             {/*The title/logo for the header*/}
             <div className='navbar-logo'>
-                <Heading fontFamily='Josefin Sans'><a href='#/'>Anchit</a></Heading>
+                <Heading fontFamily='Josefin Sans'><a href='#/'>Anchit Mishra</a></Heading>
             </div>
 
             {/*To handle responsive changes between full navbar and hamburger menu*/}
