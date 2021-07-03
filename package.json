@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://anchitmishra.tech",
+  "homepage": "https://anchit1729.github.io/portfolio",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.13",
     "@chakra-ui/react": "^1.6.4",
