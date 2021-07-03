@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Secular+One&display=swap');
 
 /*
     To modify the style of the navbar container div.
@@ -22,7 +24,7 @@
     margin-left: -10px;
     font-size: 24px;
     cursor: pointer;
-    font-family: 'Josefin Sans';
+    font-family: 'Secular One';
 }
 
 /*
