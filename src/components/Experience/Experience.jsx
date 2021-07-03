@@ -14,7 +14,7 @@ export default function Experience(props) {
                     <Heading marginTop={30} marginLeft={5} textAlign='left' size='lg'>Experience</Heading>
                     <br />
                     <Text marginLeft={5} maxWidth={700} textAlign='left' fontWeight='medium' size='xl' color='black'>
-                        Here is a list of my work experience. It includes both research/academic-oriented positions as well
+                        My work includes both research/academic-oriented positions as well
                         as industrial experience. I find both aspects of work to be equally fulfilling - while academia has
                         the thrill of working on something completely new, industry allows me to see how every cog turns in
                         the complex products that are finally shipped to consumers.
