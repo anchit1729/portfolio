@@ -3,6 +3,7 @@ import { Heading, Center, Text, Image } from '@chakra-ui/react'
 import haptiverseImage from '../../images/photo_haptiverse.jpg'
 import bigTwoImage from '../../images/photo_bigtwo.jpg'
 import astridCrisisImage from '../../images/photo_astrid.jpg'
+import blockchainImage from '../../images/photo_blockchain.png'
 import './Projects.css'
 
 export default function Projects(props) {
@@ -41,8 +42,26 @@ export default function Projects(props) {
                     <br />
                     <br />
                     <Heading marginLeft={5} textAlign='left' size='sm'>
+                        <a href='https://github.com/anchit1729/distributed-ledger-raft-consensus'>
+                            2. Distributed Ledger Prototype - Raft Distributed Consensus
+                        </a>
+                    </Heading>
+                    <br />
+                    <Text marginLeft={5} textAlign='left' maxWidth={600} fontWeight='medium' size='xl' color='black'>
+                        This project is a bare-bones implementation of a distributed ledger system (popularly known as a 'blockchain') in Java.
+                        Instead of focusing simply on the idea of chaining transactions on a single computer, this project is aimed towards
+                        implementing a distributed version of a blockchain that can consistently order transactions and follows ACID properties.
+                        It uses Raft distributed consensus to achieve this, and is built on top of Google's etcd distributed key-value store
+                    </Text>
+                    <br />
+                    <br />
+                    <Image marginLeft={35} width={500} src={blockchainImage} alt='A screenshot of the distributed ledger prototype' />
+                    <br />
+                    <br />
+                    <br />
+                    <Heading marginLeft={5} textAlign='left' size='sm'>
                         <a href='https://github.com/anchit1729/Big-Two-Java'>
-                            2. Big Two
+                            3. Big Two
                         </a>
                     </Heading>
                     <br />
@@ -60,7 +79,7 @@ export default function Projects(props) {
                     <br />
                     <Heading marginLeft={5} textAlign='left' size='sm'>
                         <a href='https://github.com/anchit1729/Text-based-Adventure'>
-                            3. Astrid Crisis
+                            4. Astrid Crisis
                         </a>
                     </Heading>
                     <br />
