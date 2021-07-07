@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6792fff5.chunk.css",
-    "main.js": "/static/js/main.cad77012.chunk.js",
-    "main.js.map": "/static/js/main.cad77012.chunk.js.map",
+    "main.js": "/static/js/main.08c25c31.chunk.js",
+    "main.js.map": "/static/js/main.08c25c31.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b14a18dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.b14a18dc.js.map",
     "static/js/2.a938ae7a.chunk.js": "/static/js/2.a938ae7a.chunk.js",
@@ -17,12 +17,12 @@
     "static/media/photo_blockchain.08f19c6a.png": "/static/media/photo_blockchain.08f19c6a.png",
     "static/media/photo_haptiverse.80090f9a.jpg": "/static/media/photo_haptiverse.80090f9a.jpg",
     "static/media/photo_web_copy.1e0d7943.jpg": "/static/media/photo_web_copy.1e0d7943.jpg",
-    "static/media/resume.9b9ef24c.pdf": "/static/media/resume.9b9ef24c.pdf"
+    "static/media/resume.821148c5.pdf": "/static/media/resume.821148c5.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.b14a18dc.js",
     "static/js/2.a938ae7a.chunk.js",
     "static/css/main.6792fff5.chunk.css",
-    "static/js/main.cad77012.chunk.js"
+    "static/js/main.08c25c31.chunk.js"
   ]
 }
